@@ -15,7 +15,7 @@
 "additionalBuiltinExtensions": [
     {
       "scheme": "https",
-      "path": "myext"
+      "path": "myExt"
     }
   ]
 }
